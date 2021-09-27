@@ -105,6 +105,10 @@ As final considerations:
 * Use the Pandas library and Jupyter Notebook.
 * You must submit a link to your GitHub repo that contains your Jupyter Notebook.
 * You must include a written description of at least two observable trends based on the data.
+
+1)Average math and reading scores when grouped by school are consistent across grades.
+2)Top 5 schools are charter schools where as the bottom 5 schools are district schools.
+
 * See [Example Solution](PyCitySchools/PyCitySchools_starter.ipynb) for a reference on the expected format.
 
 ## Hints and Considerations
